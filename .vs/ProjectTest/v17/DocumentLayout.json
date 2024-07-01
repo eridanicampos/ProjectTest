@@ -1,0 +1,1155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\_Source\\ProjectTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0706824-C2A8-4778-A1E5-B50E273CA582}|ProjectTest.csproj|c:\\_source\\projecttest\\controllers\\enderecoentregacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0706824-C2A8-4778-A1E5-B50E273CA582}|ProjectTest.csproj|solutionrelative:controllers\\enderecoentregacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0706824-C2A8-4778-A1E5-B50E273CA582}|ProjectTest.csproj|c:\\_source\\projecttest\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0706824-C2A8-4778-A1E5-B50E273CA582}|ProjectTest.csproj|solutionrelative:controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0706824-C2A8-4778-A1E5-B50E273CA582}|ProjectTest.csproj|c:\\_source\\projecttest\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0706824-C2A8-4778-A1E5-B50E273CA582}|ProjectTest.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|c:\\_source\\projecttest\\projecttest.application\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|solutionrelative:projecttest.application\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|c:\\_source\\projecttest\\projecttest.application\\services\\enderecoentregaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|solutionrelative:projecttest.application\\services\\enderecoentregaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0706824-C2A8-4778-A1E5-B50E273CA582}|ProjectTest.csproj|c:\\_source\\projecttest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0706824-C2A8-4778-A1E5-B50E273CA582}|ProjectTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|c:\\_source\\projecttest\\projecttest.application\\interfaces\\ienderecoentregaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|solutionrelative:projecttest.application\\interfaces\\ienderecoentregaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|c:\\_source\\projecttest\\projecttest.application\\dto\\enderecoentrega\\postmonresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|solutionrelative:projecttest.application\\dto\\enderecoentrega\\postmonresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|c:\\_source\\projecttest\\projecttest.application\\dto\\enderecoentrega\\viacepresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|solutionrelative:projecttest.application\\dto\\enderecoentrega\\viacepresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|c:\\_source\\projecttest\\projecttest.application\\dto\\enderecoentrega\\enderecoentregaparamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|solutionrelative:projecttest.application\\dto\\enderecoentrega\\enderecoentregaparamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|c:\\_source\\projecttest\\projecttest.application\\interfaces\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|solutionrelative:projecttest.application\\interfaces\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|c:\\_source\\projecttest\\projecttest.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|solutionrelative:projecttest.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|c:\\_source\\projecttest\\projecttest.application\\automapper\\automappersetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|solutionrelative:projecttest.application\\automapper\\automappersetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|c:\\_source\\projecttest\\projecttest.application\\dto\\pedido\\pedidomodifydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|solutionrelative:projecttest.application\\dto\\pedido\\pedidomodifydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|c:\\_source\\projecttest\\projecttest.application\\dto\\pedido\\pedidoparamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|solutionrelative:projecttest.application\\dto\\pedido\\pedidoparamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|c:\\_source\\projecttest\\projecttest.application\\dto\\pedido\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|solutionrelative:projecttest.application\\dto\\pedido\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|c:\\_source\\projecttest\\projecttest.domain\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|solutionrelative:projecttest.domain\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FBE9D4-2C1E-4BB2-9A51-C080CEE81992}|ProjectTest.Infrastructure.Data\\ProjectTest.Infrastructure.Data.csproj|c:\\_source\\projecttest\\projecttest.infrastructure.data\\repositories\\common\\genericasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FBE9D4-2C1E-4BB2-9A51-C080CEE81992}|ProjectTest.Infrastructure.Data\\ProjectTest.Infrastructure.Data.csproj|solutionrelative:projecttest.infrastructure.data\\repositories\\common\\genericasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|c:\\_source\\projecttest\\projecttest.application\\dto\\enderecoentrega\\enderecoentregadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|solutionrelative:projecttest.application\\dto\\enderecoentrega\\enderecoentregadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|c:\\_source\\projecttest\\projecttest.application\\dto\\common\\entitypkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|solutionrelative:projecttest.application\\dto\\common\\entitypkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|c:\\_source\\projecttest\\projecttest.application\\dto\\common\\entitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|solutionrelative:projecttest.application\\dto\\common\\entitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|c:\\_source\\projecttest\\projecttest.domain\\entities\\enderecoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|solutionrelative:projecttest.domain\\entities\\enderecoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|c:\\_source\\projecttest\\projecttest.domain\\interfaces\\repository\\ienderecoentregarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|solutionrelative:projecttest.domain\\interfaces\\repository\\ienderecoentregarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|c:\\_source\\projecttest\\projecttest.application\\dto\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|solutionrelative:projecttest.application\\dto\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FBE9D4-2C1E-4BB2-9A51-C080CEE81992}|ProjectTest.Infrastructure.Data\\ProjectTest.Infrastructure.Data.csproj|c:\\_source\\projecttest\\projecttest.infrastructure.data\\repositories\\enderecoentregarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FBE9D4-2C1E-4BB2-9A51-C080CEE81992}|ProjectTest.Infrastructure.Data\\ProjectTest.Infrastructure.Data.csproj|solutionrelative:projecttest.infrastructure.data\\repositories\\enderecoentregarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FBE9D4-2C1E-4BB2-9A51-C080CEE81992}|ProjectTest.Infrastructure.Data\\ProjectTest.Infrastructure.Data.csproj|c:\\_source\\projecttest\\projecttest.infrastructure.data\\configurations\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FBE9D4-2C1E-4BB2-9A51-C080CEE81992}|ProjectTest.Infrastructure.Data\\ProjectTest.Infrastructure.Data.csproj|solutionrelative:projecttest.infrastructure.data\\configurations\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|c:\\_source\\projecttest\\projecttest.domain\\interfaces\\common\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|solutionrelative:projecttest.domain\\interfaces\\common\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FBE9D4-2C1E-4BB2-9A51-C080CEE81992}|ProjectTest.Infrastructure.Data\\ProjectTest.Infrastructure.Data.csproj|c:\\_source\\projecttest\\projecttest.infrastructure.data\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FBE9D4-2C1E-4BB2-9A51-C080CEE81992}|ProjectTest.Infrastructure.Data\\ProjectTest.Infrastructure.Data.csproj|solutionrelative:projecttest.infrastructure.data\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|c:\\_source\\projecttest\\projecttest.domain\\interfaces\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|solutionrelative:projecttest.domain\\interfaces\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FBE9D4-2C1E-4BB2-9A51-C080CEE81992}|ProjectTest.Infrastructure.Data\\ProjectTest.Infrastructure.Data.csproj|c:\\_source\\projecttest\\projecttest.infrastructure.data\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FBE9D4-2C1E-4BB2-9A51-C080CEE81992}|ProjectTest.Infrastructure.Data\\ProjectTest.Infrastructure.Data.csproj|solutionrelative:projecttest.infrastructure.data\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|c:\\_source\\projecttest\\projecttest.domain\\interfaces\\repository\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|solutionrelative:projecttest.domain\\interfaces\\repository\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data\\Migrations\\20240630231823_Criar Tabelas Pedido EnderecoEntrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectTest.Infrastructure.Data\\Migrations\\20240630231823_Criar Tabelas Pedido EnderecoEntrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FBE9D4-2C1E-4BB2-9A51-C080CEE81992}|ProjectTest.Infrastructure.Data\\ProjectTest.Infrastructure.Data.csproj|c:\\_source\\projecttest\\projecttest.infrastructure.data\\mappings\\enderecoentregamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FBE9D4-2C1E-4BB2-9A51-C080CEE81992}|ProjectTest.Infrastructure.Data\\ProjectTest.Infrastructure.Data.csproj|solutionrelative:projecttest.infrastructure.data\\mappings\\enderecoentregamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FBE9D4-2C1E-4BB2-9A51-C080CEE81992}|ProjectTest.Infrastructure.Data\\ProjectTest.Infrastructure.Data.csproj|c:\\_source\\projecttest\\projecttest.infrastructure.data\\context\\projecttestcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FBE9D4-2C1E-4BB2-9A51-C080CEE81992}|ProjectTest.Infrastructure.Data\\ProjectTest.Infrastructure.Data.csproj|solutionrelative:projecttest.infrastructure.data\\context\\projecttestcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FBE9D4-2C1E-4BB2-9A51-C080CEE81992}|ProjectTest.Infrastructure.Data\\ProjectTest.Infrastructure.Data.csproj|c:\\_source\\projecttest\\projecttest.infrastructure.data\\mappings\\usuariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FBE9D4-2C1E-4BB2-9A51-C080CEE81992}|ProjectTest.Infrastructure.Data\\ProjectTest.Infrastructure.Data.csproj|solutionrelative:projecttest.infrastructure.data\\mappings\\usuariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FBE9D4-2C1E-4BB2-9A51-C080CEE81992}|ProjectTest.Infrastructure.Data\\ProjectTest.Infrastructure.Data.csproj|c:\\_source\\projecttest\\projecttest.infrastructure.data\\mappings\\pedidomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FBE9D4-2C1E-4BB2-9A51-C080CEE81992}|ProjectTest.Infrastructure.Data\\ProjectTest.Infrastructure.Data.csproj|solutionrelative:projecttest.infrastructure.data\\mappings\\pedidomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FBE9D4-2C1E-4BB2-9A51-C080CEE81992}|ProjectTest.Infrastructure.Data\\ProjectTest.Infrastructure.Data.csproj|c:\\_source\\projecttest\\projecttest.infrastructure.data\\mappings\\entityintmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FBE9D4-2C1E-4BB2-9A51-C080CEE81992}|ProjectTest.Infrastructure.Data\\ProjectTest.Infrastructure.Data.csproj|solutionrelative:projecttest.infrastructure.data\\mappings\\entityintmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|c:\\_source\\projecttest\\projecttest.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|solutionrelative:projecttest.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FBE9D4-2C1E-4BB2-9A51-C080CEE81992}|ProjectTest.Infrastructure.Data\\ProjectTest.Infrastructure.Data.csproj|c:\\_source\\projecttest\\projecttest.infrastructure.data\\context\\projecttestcontextdbset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FBE9D4-2C1E-4BB2-9A51-C080CEE81992}|ProjectTest.Infrastructure.Data\\ProjectTest.Infrastructure.Data.csproj|solutionrelative:projecttest.infrastructure.data\\context\\projecttestcontextdbset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|c:\\_source\\projecttest\\projecttest.domain\\entities\\enum\\estatusentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|solutionrelative:projecttest.domain\\entities\\enum\\estatusentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|c:\\_source\\projecttest\\projecttest.domain\\entities\\currentuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|solutionrelative:projecttest.domain\\entities\\currentuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|c:\\_source\\projecttest\\projecttest.domain\\interfaces\\icurrentuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|solutionrelative:projecttest.domain\\interfaces\\icurrentuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0706824-C2A8-4778-A1E5-B50E273CA582}|ProjectTest.csproj|c:\\_source\\projecttest\\configuration\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0706824-C2A8-4778-A1E5-B50E273CA582}|ProjectTest.csproj|solutionrelative:configuration\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|c:\\_source\\projecttest\\projecttest.application\\auth\\settingsauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|solutionrelative:projecttest.application\\auth\\settingsauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eridani\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f039d3b98bad8a57c31566e19254459eccd1a633f9e509034fd7e84034b11c\\ThreadPoolWorkQueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0706824-C2A8-4778-A1E5-B50E273CA582}|ProjectTest.csproj|c:\\_source\\projecttest\\helpers\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0706824-C2A8-4778-A1E5-B50E273CA582}|ProjectTest.csproj|solutionrelative:helpers\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|c:\\_source\\projecttest\\projecttest.domain\\entities\\abstracts\\entityint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|solutionrelative:projecttest.domain\\entities\\abstracts\\entityint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|c:\\_source\\projecttest\\projecttest.domain\\entities\\abstracts\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|solutionrelative:projecttest.domain\\entities\\abstracts\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|c:\\_source\\projecttest\\projecttest.domain\\entities\\abstracts\\entityguid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|solutionrelative:projecttest.domain\\entities\\abstracts\\entityguid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|c:\\_source\\projecttest\\projecttest.domain\\entities\\acessousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|solutionrelative:projecttest.domain\\entities\\acessousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|c:\\_source\\projecttest\\projecttest.domain\\interfaces\\repository\\iacessousuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|solutionrelative:projecttest.domain\\interfaces\\repository\\iacessousuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0706824-C2A8-4778-A1E5-B50E273CA582}|ProjectTest.csproj|c:\\_source\\projecttest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0706824-C2A8-4778-A1E5-B50E273CA582}|ProjectTest.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data.Mongo\\Migrations\\20240630003225_Criar Tabela Acesso Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectTest.Infrastructure.Data.Mongo\\Migrations\\20240630003225_Criar Tabela Acesso Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data.Mongo\\Migrations\\20240630002659_Criar Tabela Acesso Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectTest.Infrastructure.Data.Mongo\\Migrations\\20240630002659_Criar Tabela Acesso Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|c:\\_source\\projecttest\\projecttest.application\\dto\\user\\userparmersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26612568-55ED-460B-85DB-34DFFD60B836}|ProjectTest.Application\\ProjectTest.Application.csproj|solutionrelative:projecttest.application\\dto\\user\\userparmersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|c:\\_source\\projecttest\\projecttest.domain\\helpers\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|solutionrelative:projecttest.domain\\helpers\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|c:\\_source\\projecttest\\projecttest.domain\\helpers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|solutionrelative:projecttest.domain\\helpers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|c:\\_source\\projecttest\\projecttest.domain\\helpers\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|solutionrelative:projecttest.domain\\helpers\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0706824-C2A8-4778-A1E5-B50E273CA582}|ProjectTest.csproj|c:\\_source\\projecttest\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0706824-C2A8-4778-A1E5-B50E273CA582}|ProjectTest.csproj|solutionrelative:middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|c:\\_source\\projecttest\\projecttest.domain\\entities\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|solutionrelative:projecttest.domain\\entities\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data.Mongo\\Migrations\\20240626213139_InicialBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectTest.Infrastructure.Data.Mongo\\Migrations\\20240626213139_InicialBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|c:\\_source\\projecttest\\projecttest.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F34A107-BD29-46CD-95C1-E3F633648082}|ProjectTest.Domain\\ProjectTest.Domain.csproj|solutionrelative:projecttest.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectTest.Infrastructure\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\_Source\\ProjectTest\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\_Source\\ProjectTest\\obj\\Debug\\net8.0\\ProjectTest.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\ProjectTest.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data.Mongo\\Mappings\\AcessoUsuarioMap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectTest.Infrastructure.Data.Mongo\\Mappings\\AcessoUsuarioMap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnderecoEntregaController.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\Controllers\\EnderecoEntregaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EnderecoEntregaController.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\Controllers\\EnderecoEntregaController.cs",
+              "RelativeToolTip": "Controllers\\EnderecoEntregaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T03:50:10.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\Controllers\\PedidoController.cs*",
+              "RelativeToolTip": "Controllers\\PedidoController.cs*",
+              "ViewState": "AQIAADIAAAAAAAAAAAAQwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T03:49:14.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnderecoEntregaService.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\Services\\EnderecoEntregaService.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Application\\Services\\EnderecoEntregaService.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\Services\\EnderecoEntregaService.cs",
+              "RelativeToolTip": "ProjectTest.Application\\Services\\EnderecoEntregaService.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAwI8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T23:42:43.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostmonResponse.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\DTO\\EnderecoEntrega\\PostmonResponse.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Application\\DTO\\EnderecoEntrega\\PostmonResponse.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\DTO\\EnderecoEntrega\\PostmonResponse.cs",
+              "RelativeToolTip": "ProjectTest.Application\\DTO\\EnderecoEntrega\\PostmonResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T03:40:32.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViaCepResponse.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\DTO\\EnderecoEntrega\\ViaCepResponse.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Application\\DTO\\EnderecoEntrega\\ViaCepResponse.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\DTO\\EnderecoEntrega\\ViaCepResponse.cs",
+              "RelativeToolTip": "ProjectTest.Application\\DTO\\EnderecoEntrega\\ViaCepResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T03:40:18.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEnderecoEntregaService.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\Interfaces\\IEnderecoEntregaService.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Application\\Interfaces\\IEnderecoEntregaService.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\Interfaces\\IEnderecoEntregaService.cs",
+              "RelativeToolTip": "ProjectTest.Application\\Interfaces\\IEnderecoEntregaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T03:04:14.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PedidoParamDTO.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\DTO\\Pedido\\PedidoParamDTO.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Application\\DTO\\Pedido\\PedidoParamDTO.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\DTO\\Pedido\\PedidoParamDTO.cs",
+              "RelativeToolTip": "ProjectTest.Application\\DTO\\Pedido\\PedidoParamDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T02:58:12.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PedidoModifyDTO.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\DTO\\Pedido\\PedidoModifyDTO.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Application\\DTO\\Pedido\\PedidoModifyDTO.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\DTO\\Pedido\\PedidoModifyDTO.cs",
+              "RelativeToolTip": "ProjectTest.Application\\DTO\\Pedido\\PedidoModifyDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T02:52:32.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PedidoService.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\Services\\PedidoService.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Application\\Services\\PedidoService.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\Services\\PedidoService.cs",
+              "RelativeToolTip": "ProjectTest.Application\\Services\\PedidoService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA8wGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T02:49:27.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPedidoService.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\Interfaces\\IPedidoService.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Application\\Interfaces\\IPedidoService.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\Interfaces\\IPedidoService.cs",
+              "RelativeToolTip": "ProjectTest.Application\\Interfaces\\IPedidoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T02:49:12.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:10:10.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PedidoDTO.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\DTO\\Pedido\\PedidoDTO.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Application\\DTO\\Pedido\\PedidoDTO.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\DTO\\Pedido\\PedidoDTO.cs",
+              "RelativeToolTip": "ProjectTest.Application\\DTO\\Pedido\\PedidoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T02:57:11.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnderecoEntregaParamDTO.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\DTO\\EnderecoEntrega\\EnderecoEntregaParamDTO.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Application\\DTO\\EnderecoEntrega\\EnderecoEntregaParamDTO.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\DTO\\EnderecoEntrega\\EnderecoEntregaParamDTO.cs",
+              "RelativeToolTip": "ProjectTest.Application\\DTO\\EnderecoEntrega\\EnderecoEntregaParamDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T00:03:50.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T20:11:18.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EnderecoEntregaDTO.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\DTO\\EnderecoEntrega\\EnderecoEntregaDTO.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Application\\DTO\\EnderecoEntrega\\EnderecoEntregaDTO.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\DTO\\EnderecoEntrega\\EnderecoEntregaDTO.cs",
+              "RelativeToolTip": "ProjectTest.Application\\DTO\\EnderecoEntrega\\EnderecoEntregaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T00:05:22.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IEnderecoEntregaRepository.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Interfaces\\Repository\\IEnderecoEntregaRepository.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Domain\\Interfaces\\Repository\\IEnderecoEntregaRepository.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Interfaces\\Repository\\IEnderecoEntregaRepository.cs",
+              "RelativeToolTip": "ProjectTest.Domain\\Interfaces\\Repository\\IEnderecoEntregaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T23:36:21.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AutoMapperSetup.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\AutoMapper\\AutoMapperSetup.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Application\\AutoMapper\\AutoMapperSetup.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\AutoMapper\\AutoMapperSetup.cs",
+              "RelativeToolTip": "ProjectTest.Application\\AutoMapper\\AutoMapperSetup.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwC4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:13:51.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "ProjectTest.Application\\Services\\UserService.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAqwHQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:53:12.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EnderecoEntregaRepository.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data\\Repositories\\EnderecoEntregaRepository.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Infrastructure.Data\\Repositories\\EnderecoEntregaRepository.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data\\Repositories\\EnderecoEntregaRepository.cs",
+              "RelativeToolTip": "ProjectTest.Infrastructure.Data\\Repositories\\EnderecoEntregaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T23:35:09.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DependencyInjectionConfig.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data\\Configurations\\DependencyInjectionConfig.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Infrastructure.Data\\Configurations\\DependencyInjectionConfig.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data\\Configurations\\DependencyInjectionConfig.cs",
+              "RelativeToolTip": "ProjectTest.Infrastructure.Data\\Configurations\\DependencyInjectionConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:59:26.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GenericAsyncRepository.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data\\Repositories\\Common\\GenericAsyncRepository.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Infrastructure.Data\\Repositories\\Common\\GenericAsyncRepository.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data\\Repositories\\Common\\GenericAsyncRepository.cs",
+              "RelativeToolTip": "ProjectTest.Infrastructure.Data\\Repositories\\Common\\GenericAsyncRepository.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAawE0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T03:45:07.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Entities\\Pedido.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Domain\\Entities\\Pedido.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Entities\\Pedido.cs",
+              "RelativeToolTip": "ProjectTest.Domain\\Entities\\Pedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T22:23:56.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Interfaces\\Common\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Domain\\Interfaces\\Common\\IUnitOfWork.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Interfaces\\Common\\IUnitOfWork.cs",
+              "RelativeToolTip": "ProjectTest.Domain\\Interfaces\\Common\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T23:38:03.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Interfaces\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Domain\\Interfaces\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Interfaces\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "ProjectTest.Domain\\Interfaces\\Repository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T22:00:22.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\DTO\\User\\UserDTO.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Application\\DTO\\User\\UserDTO.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\DTO\\User\\UserDTO.cs",
+              "RelativeToolTip": "ProjectTest.Application\\DTO\\User\\UserDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:55:29.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EnderecoEntrega.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Entities\\EnderecoEntrega.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Domain\\Entities\\EnderecoEntrega.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Entities\\EnderecoEntrega.cs",
+              "RelativeToolTip": "ProjectTest.Domain\\Entities\\EnderecoEntrega.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T22:24:16.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EntityPKDTO.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\DTO\\Common\\EntityPKDTO.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Application\\DTO\\Common\\EntityPKDTO.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\DTO\\Common\\EntityPKDTO.cs",
+              "RelativeToolTip": "ProjectTest.Application\\DTO\\Common\\EntityPKDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:57:02.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EntityDTO.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\DTO\\Common\\EntityDTO.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Application\\DTO\\Common\\EntityDTO.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\DTO\\Common\\EntityDTO.cs",
+              "RelativeToolTip": "ProjectTest.Application\\DTO\\Common\\EntityDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:57:27.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PedidoRepository.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data\\Repositories\\PedidoRepository.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Infrastructure.Data\\Repositories\\PedidoRepository.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data\\Repositories\\PedidoRepository.cs",
+              "RelativeToolTip": "ProjectTest.Infrastructure.Data\\Repositories\\PedidoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T23:32:50.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IPedidoRepository.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Interfaces\\Repository\\IPedidoRepository.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Domain\\Interfaces\\Repository\\IPedidoRepository.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Interfaces\\Repository\\IPedidoRepository.cs",
+              "RelativeToolTip": "ProjectTest.Domain\\Interfaces\\Repository\\IPedidoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T23:34:41.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240630231823_Criar Tabelas Pedido EnderecoEntrega.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data\\Migrations\\20240630231823_Criar Tabelas Pedido EnderecoEntrega.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Infrastructure.Data\\Migrations\\20240630231823_Criar Tabelas Pedido EnderecoEntrega.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data\\Migrations\\20240630231823_Criar Tabelas Pedido EnderecoEntrega.cs",
+              "RelativeToolTip": "ProjectTest.Infrastructure.Data\\Migrations\\20240630231823_Criar Tabelas Pedido EnderecoEntrega.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T23:18:24.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EnderecoEntregaMap.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data\\Mappings\\EnderecoEntregaMap.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Infrastructure.Data\\Mappings\\EnderecoEntregaMap.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data\\Mappings\\EnderecoEntregaMap.cs",
+              "RelativeToolTip": "ProjectTest.Infrastructure.Data\\Mappings\\EnderecoEntregaMap.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T22:50:16.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EntityIntMap.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data\\Mappings\\EntityIntMap.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Infrastructure.Data\\Mappings\\EntityIntMap.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data\\Mappings\\EntityIntMap.cs",
+              "RelativeToolTip": "ProjectTest.Infrastructure.Data\\Mappings\\EntityIntMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T22:54:20.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UsuarioMap.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data\\Mappings\\UsuarioMap.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Infrastructure.Data\\Mappings\\UsuarioMap.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data\\Mappings\\UsuarioMap.cs",
+              "RelativeToolTip": "ProjectTest.Infrastructure.Data\\Mappings\\UsuarioMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T22:38:38.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PedidoMap.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data\\Mappings\\PedidoMap.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Infrastructure.Data\\Mappings\\PedidoMap.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data\\Mappings\\PedidoMap.cs",
+              "RelativeToolTip": "ProjectTest.Infrastructure.Data\\Mappings\\PedidoMap.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T22:38:20.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EStatusEntrega.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Entities\\Enum\\EStatusEntrega.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Domain\\Entities\\Enum\\EStatusEntrega.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Entities\\Enum\\EStatusEntrega.cs",
+              "RelativeToolTip": "ProjectTest.Domain\\Entities\\Enum\\EStatusEntrega.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T22:31:25.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CurrentUserInfo.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Entities\\CurrentUserInfo.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Domain\\Entities\\CurrentUserInfo.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Entities\\CurrentUserInfo.cs",
+              "RelativeToolTip": "ProjectTest.Domain\\Entities\\CurrentUserInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T22:17:00.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Infrastructure.Data\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "ProjectTest.Infrastructure.Data\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T03:32:18.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ICurrentUserInfo.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Interfaces\\ICurrentUserInfo.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Domain\\Interfaces\\ICurrentUserInfo.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Interfaces\\ICurrentUserInfo.cs",
+              "RelativeToolTip": "ProjectTest.Domain\\Interfaces\\ICurrentUserInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T22:15:15.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ApiConfig.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\Configuration\\ApiConfig.cs",
+              "RelativeDocumentMoniker": "Configuration\\ApiConfig.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\Configuration\\ApiConfig.cs",
+              "RelativeToolTip": "Configuration\\ApiConfig.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:07:32.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\_Source\\ProjectTest\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-30T06:21:56.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProjectTestContext.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data\\Context\\ProjectTestContext.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Infrastructure.Data\\Context\\ProjectTestContext.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data\\Context\\ProjectTestContext.cs",
+              "RelativeToolTip": "ProjectTest.Infrastructure.Data\\Context\\ProjectTestContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwB8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T03:31:14.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "ProjectTest.Domain\\Entities\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T00:21:13.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "EntityGuid.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Entities\\Abstracts\\EntityGuid.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Domain\\Entities\\Abstracts\\EntityGuid.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Entities\\Abstracts\\EntityGuid.cs",
+              "RelativeToolTip": "ProjectTest.Domain\\Entities\\Abstracts\\EntityGuid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:20:58.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Entities\\Abstracts\\Entity.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Domain\\Entities\\Abstracts\\Entity.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Entities\\Abstracts\\Entity.cs",
+              "RelativeToolTip": "ProjectTest.Domain\\Entities\\Abstracts\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:10:52.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProjectTestContextDbSet.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data\\Context\\ProjectTestContextDbSet.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Infrastructure.Data\\Context\\ProjectTestContextDbSet.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data\\Context\\ProjectTestContextDbSet.cs",
+              "RelativeToolTip": "ProjectTest.Infrastructure.Data\\Context\\ProjectTestContextDbSet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T03:31:13.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SettingsAuthService.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\Auth\\SettingsAuthService.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Application\\Auth\\SettingsAuthService.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\Auth\\SettingsAuthService.cs",
+              "RelativeToolTip": "ProjectTest.Application\\Auth\\SettingsAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:45:34.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AcessoUsuario.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Entities\\AcessoUsuario.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Domain\\Entities\\AcessoUsuario.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Entities\\AcessoUsuario.cs",
+              "RelativeToolTip": "ProjectTest.Domain\\Entities\\AcessoUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T21:53:58.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "EntityInt.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Entities\\Abstracts\\EntityInt.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Domain\\Entities\\Abstracts\\EntityInt.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Entities\\Abstracts\\EntityInt.cs",
+              "RelativeToolTip": "ProjectTest.Domain\\Entities\\Abstracts\\EntityInt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:21:31.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\Helpers\\Class.cs",
+              "RelativeDocumentMoniker": "Helpers\\Class.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\Helpers\\Class.cs",
+              "RelativeToolTip": "Helpers\\Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:57:40.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ThreadPoolWorkQueue.cs",
+              "DocumentMoniker": "C:\\Users\\Eridani\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f039d3b98bad8a57c31566e19254459eccd1a633f9e509034fd7e84034b11c\\ThreadPoolWorkQueue.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Eridani\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f039d3b98bad8a57c31566e19254459eccd1a633f9e509034fd7e84034b11c\\ThreadPoolWorkQueue.cs",
+              "ToolTip": "C:\\Users\\Eridani\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f039d3b98bad8a57c31566e19254459eccd1a633f9e509034fd7e84034b11c\\ThreadPoolWorkQueue.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\Users\\Eridani\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f039d3b98bad8a57c31566e19254459eccd1a633f9e509034fd7e84034b11c\\ThreadPoolWorkQueue.cs [Somente Leitura]",
+              "ViewState": "AQIAAJQCAAAAAAAAAAASwLQCAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:43:32.559Z",
+              "EditorCaption": " [Somente Leitura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T03:06:53.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IAcessoUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Interfaces\\Repository\\IAcessoUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Domain\\Interfaces\\Repository\\IAcessoUsuarioRepository.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Interfaces\\Repository\\IAcessoUsuarioRepository.cs",
+              "RelativeToolTip": "ProjectTest.Domain\\Interfaces\\Repository\\IAcessoUsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T22:00:12.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Helpers\\BaseController.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Domain\\Helpers\\BaseController.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Helpers\\BaseController.cs",
+              "RelativeToolTip": "ProjectTest.Domain\\Helpers\\BaseController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:12:18.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AcessoUsuarioMap.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data.Mongo\\Mappings\\AcessoUsuarioMap.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Infrastructure.Data.Mongo\\Mappings\\AcessoUsuarioMap.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data.Mongo\\Mappings\\AcessoUsuarioMap.cs",
+              "RelativeToolTip": "ProjectTest.Infrastructure.Data.Mongo\\Mappings\\AcessoUsuarioMap.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T00:19:42.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ProjectTest.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\obj\\Debug\\net8.0\\ProjectTest.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\ProjectTest.AssemblyInfo.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\obj\\Debug\\net8.0\\ProjectTest.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\ProjectTest.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T03:06:52.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Helpers\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Domain\\Helpers\\BaseResponse.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Helpers\\BaseResponse.cs",
+              "RelativeToolTip": "ProjectTest.Domain\\Helpers\\BaseResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:22:01.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20240630002659_Criar Tabela Acesso Usuario.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data.Mongo\\Migrations\\20240630002659_Criar Tabela Acesso Usuario.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Infrastructure.Data.Mongo\\Migrations\\20240630002659_Criar Tabela Acesso Usuario.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data.Mongo\\Migrations\\20240630002659_Criar Tabela Acesso Usuario.cs",
+              "RelativeToolTip": "ProjectTest.Infrastructure.Data.Mongo\\Migrations\\20240630002659_Criar Tabela Acesso Usuario.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T00:26:59.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20240630003225_Criar Tabela Acesso Usuario.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data.Mongo\\Migrations\\20240630003225_Criar Tabela Acesso Usuario.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Infrastructure.Data.Mongo\\Migrations\\20240630003225_Criar Tabela Acesso Usuario.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data.Mongo\\Migrations\\20240630003225_Criar Tabela Acesso Usuario.cs",
+              "RelativeToolTip": "ProjectTest.Infrastructure.Data.Mongo\\Migrations\\20240630003225_Criar Tabela Acesso Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T00:32:25.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:43:39.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UserParmersDTO.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\DTO\\User\\UserParmersDTO.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Application\\DTO\\User\\UserParmersDTO.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Application\\DTO\\User\\UserParmersDTO.cs",
+              "RelativeToolTip": "ProjectTest.Application\\DTO\\User\\UserParmersDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T22:25:20.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "PagedList.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Helpers\\PagedList.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Domain\\Helpers\\PagedList.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Helpers\\PagedList.cs",
+              "RelativeToolTip": "ProjectTest.Domain\\Helpers\\PagedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:36:19.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Entities\\UserContext.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Domain\\Entities\\UserContext.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Entities\\UserContext.cs",
+              "RelativeToolTip": "ProjectTest.Domain\\Entities\\UserContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:49:06.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Domain\\Class1.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Domain\\Class1.cs",
+              "RelativeToolTip": "ProjectTest.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:26:07.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20240626213139_InicialBD.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data.Mongo\\Migrations\\20240626213139_InicialBD.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Infrastructure.Data.Mongo\\Migrations\\20240626213139_InicialBD.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure.Data.Mongo\\Migrations\\20240626213139_InicialBD.cs",
+              "RelativeToolTip": "ProjectTest.Infrastructure.Data.Mongo\\Migrations\\20240626213139_InicialBD.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:31:39.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "ProjectTest.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\_Source\\ProjectTest\\ProjectTest.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "ProjectTest.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:28:10.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

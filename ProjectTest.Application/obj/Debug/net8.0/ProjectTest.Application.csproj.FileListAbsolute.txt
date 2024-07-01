@@ -1,0 +1,15 @@
+C:\_Source\ProjectTest\ProjectTest.Application\bin\Debug\net8.0\ProjectTest.Application.deps.json
+C:\_Source\ProjectTest\ProjectTest.Application\bin\Debug\net8.0\ProjectTest.Application.dll
+C:\_Source\ProjectTest\ProjectTest.Application\bin\Debug\net8.0\ProjectTest.Application.pdb
+C:\_Source\ProjectTest\ProjectTest.Application\obj\Debug\net8.0\ProjectTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Source\ProjectTest\ProjectTest.Application\obj\Debug\net8.0\ProjectTest.Application.AssemblyInfoInputs.cache
+C:\_Source\ProjectTest\ProjectTest.Application\obj\Debug\net8.0\ProjectTest.Application.AssemblyInfo.cs
+C:\_Source\ProjectTest\ProjectTest.Application\obj\Debug\net8.0\ProjectTest.Application.csproj.CoreCompileInputs.cache
+C:\_Source\ProjectTest\ProjectTest.Application\obj\Debug\net8.0\ProjectTest.Application.dll
+C:\_Source\ProjectTest\ProjectTest.Application\obj\Debug\net8.0\refint\ProjectTest.Application.dll
+C:\_Source\ProjectTest\ProjectTest.Application\obj\Debug\net8.0\ProjectTest.Application.pdb
+C:\_Source\ProjectTest\ProjectTest.Application\obj\Debug\net8.0\ref\ProjectTest.Application.dll
+C:\_Source\ProjectTest\ProjectTest.Application\bin\Debug\net8.0\ProjectTest.Domain.dll
+C:\_Source\ProjectTest\ProjectTest.Application\bin\Debug\net8.0\ProjectTest.Domain.pdb
+C:\_Source\ProjectTest\ProjectTest.Application\obj\Debug\net8.0\ProjectTest.Application.csproj.AssemblyReference.cache
+C:\_Source\ProjectTest\ProjectTest.Application\obj\Debug\net8.0\ProjectT.2AE869AD.Up2Date
