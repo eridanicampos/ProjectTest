@@ -38,12 +38,6 @@ namespace ProjectTest.Domain.Entities
                 return new(false, MessagesToReturn);
             }
 
-            Usuario user = await _userRepository.FindUser(Email);
-            if (user != null  && this.Id != user.Id)
-            {
-                MessagesToReturn.Add("Esse e-mail já está cadastro.");
-                return new(false, MessagesToReturn);
-            }
 
             return new(true, new());
         }

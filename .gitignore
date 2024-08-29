@@ -1,0 +1,10 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ProjectTest/FileContentIndex/e8372715-532f-459c-9af6-d650ff3484c2.vsidx
+/.vs/ProjectTest/FileContentIndex/27e1d778-0710-4fc6-8ffd-8cdae5dc3b72.vsidx
+/.vs/ProjectTest/v17/.suo
+/obj/project.assets.json
+/obj/project.nuget.cache
+/obj/ProjectTest.csproj.nuget.dgspec.json
